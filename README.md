@@ -38,7 +38,7 @@ In this part, you will learn:
 
 In this part, you will learn:
 * How to **investigate the biological relevance** behind GWAS results
-* Analysis of known and novel associations between endpoints and genetic variants (SNPs) / genes
+* How to analyze **known and novel associations** between endpoints and genetic variants / genes
 
 ## Repository Contents
 
